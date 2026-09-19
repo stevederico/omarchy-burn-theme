@@ -2,7 +2,7 @@
 
 Omarchy theme from a Super Heavy night static fire. Ember void, flame gold, square corners, hairline borders.
 
-Repo: [stevederico/omarchy-burn-theme](https://github.com/stevederico/omarchy-burn-theme). Split from [stevederico/omarchy-themes](https://github.com/stevederico/omarchy-themes) (Space).
+Repo: [stevederico/omarchy-burn-theme](https://github.com/stevederico/omarchy-burn-theme). Split from [stevederico/omarchy-space-theme](https://github.com/stevederico/omarchy-space-theme).
 
 ## Palette
 
