@@ -2,6 +2,12 @@
 
 - Extra Burn stills
 
+0.4.0
+
+  Swap ship-fire default
+  Set ship-fire preview
+  Remove full flames
+
 0.3.0
 
   Add flames default
