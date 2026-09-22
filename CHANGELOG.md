@@ -2,6 +2,10 @@
 
 - Extra Burn stills
 
+0.5.0
+
+  Set desktop preview
+
 0.4.0
 
   Swap ship-fire default
