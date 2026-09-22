@@ -2,6 +2,13 @@
 
 - Extra Burn stills
 
+0.3.0
+
+  Add flames default
+  Add full flames
+  Reorder background stills
+  Set flames preview
+
 0.2.0
 
   Point Space repo rename

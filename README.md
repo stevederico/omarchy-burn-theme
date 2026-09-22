@@ -33,9 +33,11 @@ Backgrounds cycle with Super+Ctrl+Space.
 
 | File | Size | Shot | Source |
 |------|------|------|--------|
-| `0-static-fire.jpg` | 2100×3149 | Super Heavy plume at night | [X orig](https://pbs.twimg.com/media/HIGiE3yaQAAEJGu?format=jpg&name=4096x4096) |
-| `1-raptor-plume.jpg` | 3000×2000 | Raptor bells firing | [X orig](https://pbs.twimg.com/media/G3_S4kWWYAAqLkX?format=jpg&name=4096x4096) |
-| `2-ship-fire.jpg` | 2253×3380 | Ship overhead in fire | [X orig](https://pbs.twimg.com/media/G0Q4MVmbcAANGka?format=jpg&name=4096x4096) |
-| `3-triple-plume.jpg` | 840×1200 | Triple Raptor plume | [X orig](https://pbs.twimg.com/media/Gs0jV9NWEAA5oOF?format=jpg&name=4096x4096) |
+| `0-flames.png` | 1440×810 | Raptor nozzles and flame, default | cropped from `5-full-flames.png` |
+| `1-ship-fire.jpg` | 2253×3380 | Ship overhead in fire | [X orig](https://pbs.twimg.com/media/G0Q4MVmbcAANGka?format=jpg&name=4096x4096) |
+| `2-raptor-plume.jpg` | 3000×2000 | Raptor bells firing | [X orig](https://pbs.twimg.com/media/G3_S4kWWYAAqLkX?format=jpg&name=4096x4096) |
+| `3-static-fire.jpg` | 2100×3149 | Super Heavy plume at night | [X orig](https://pbs.twimg.com/media/HIGiE3yaQAAEJGu?format=jpg&name=4096x4096) |
+| `4-triple-plume.jpg` | 840×1200 | Triple Raptor plume | [X orig](https://pbs.twimg.com/media/Gs0jV9NWEAA5oOF?format=jpg&name=4096x4096) |
+| `5-full-flames.png` | 1440×2560 | Full frame of the default crop | Studio desktop |
 
 Photos © SpaceX.
