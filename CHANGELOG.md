@@ -2,6 +2,11 @@
 
 - Extra Burn stills
 
+0.6.0
+
+  Retake desktop preview
+  Filter btop processes
+
 0.5.0
 
   Set desktop preview
