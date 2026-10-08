@@ -2,6 +2,10 @@
 
 - Extra Burn stills
 
+0.9.0
+
+  Add backgrounds grid
+
 0.8.0
 
   Add readme preview

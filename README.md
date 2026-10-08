@@ -35,6 +35,8 @@ Backgrounds cycle with Super+Ctrl+Space.
 
 ## Backgrounds
 
+![All 5 backgrounds with file names and sizes](backgrounds-grid.webp)
+
 | File | Size | Shot | Source |
 |------|------|------|--------|
 | `0-ship-fire.jpg` | 2253×3380 | Ship overhead in fire, default | [X orig](https://pbs.twimg.com/media/G0Q4MVmbcAANGka?format=jpg&name=4096x4096) |
