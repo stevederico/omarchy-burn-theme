@@ -6,6 +6,8 @@ Repo: [stevederico/omarchy-burn-theme](https://github.com/stevederico/omarchy-bu
 
 Sister theme: [Space](https://github.com/stevederico/omarchy-space-theme), Starship launch in sunlit steam. Burn split from it.
 
+![Burn on the desktop](screenshot.webp)
+
 ## Palette
 
 | Role | Hex |

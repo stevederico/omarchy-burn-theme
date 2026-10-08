@@ -2,6 +2,10 @@
 
 - Extra Burn stills
 
+0.8.0
+
+  Add readme preview
+
 0.7.0
 
   Link Space theme
