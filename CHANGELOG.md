@@ -2,6 +2,10 @@
 
 - Extra Burn stills
 
+0.7.0
+
+  Link Space theme
+
 0.6.0
 
   Retake desktop preview

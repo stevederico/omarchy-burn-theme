@@ -2,7 +2,9 @@
 
 Omarchy theme from a Super Heavy night static fire. Ember void, flame gold, square corners, hairline borders.
 
-Repo: [stevederico/omarchy-burn-theme](https://github.com/stevederico/omarchy-burn-theme). Split from [stevederico/omarchy-space-theme](https://github.com/stevederico/omarchy-space-theme).
+Repo: [stevederico/omarchy-burn-theme](https://github.com/stevederico/omarchy-burn-theme).
+
+Sister theme: [Space](https://github.com/stevederico/omarchy-space-theme), Starship launch in sunlit steam. Burn split from it.
 
 ## Palette
 
