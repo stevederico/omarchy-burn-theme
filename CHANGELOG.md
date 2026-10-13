@@ -2,6 +2,11 @@
 
 - Extra Burn stills
 
+0.10.0
+
+  Upscale backgrounds to 4K
+  Update backgrounds grid
+
 0.9.0
 
   Add backgrounds grid
