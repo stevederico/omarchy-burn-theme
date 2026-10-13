@@ -2,6 +2,11 @@
 
 - Extra Burn stills
 
+0.12.0
+
+  Widen triple plume to 4K
+  Update backgrounds grid
+
 0.11.0
 
   Widen ship fire to 4K
