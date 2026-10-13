@@ -39,12 +39,12 @@ Backgrounds cycle with Super+Ctrl+Space.
 
 | File | Size | Shot | Source |
 |------|------|------|--------|
-| `0-ship-fire.webp` | 2560×3840 (4K) | Ship overhead in fire, default | [X orig](https://pbs.twimg.com/media/G0Q4MVmbcAANGka?format=jpg&name=4096x4096) |
+| `0-ship-fire.webp` | 3840×5761 (4K) | Ship overhead in fire, default | [X orig](https://pbs.twimg.com/media/G0Q4MVmbcAANGka?format=jpg&name=4096x4096) |
 | `1-flames.webp` | 3840×2160 (4K) | Raptor nozzles and flame | Studio desktop |
 | `2-raptor-plume.webp` | 3840×2560 (4K) | Raptor bells firing | [X orig](https://pbs.twimg.com/media/G3_S4kWWYAAqLkX?format=jpg&name=4096x4096) |
-| `3-static-fire.jpg` | 2100×3149 | Super Heavy plume at night | [X orig](https://pbs.twimg.com/media/HIGiE3yaQAAEJGu?format=jpg&name=4096x4096) |
+| `3-static-fire.webp` | 3840×5758 (4K) | Super Heavy plume at night | [X orig](https://pbs.twimg.com/media/HIGiE3yaQAAEJGu?format=jpg&name=4096x4096) |
 | `4-triple-plume.webp` | 2688×3840 (4K) | Triple Raptor plume | [X orig](https://pbs.twimg.com/media/Gs0jV9NWEAA5oOF?format=jpg&name=4096x4096) |
 
-(4K) backgrounds are upscaled from the originals with Topaz High Fidelity V2 on Replicate (2x for `0-ship-fire` and `2-raptor-plume`, 4x for `1-flames` and `4-triple-plume`), then lanczos down to 4K.
+(4K) backgrounds are upscaled from the originals with Topaz High Fidelity V2 on Replicate (2x for `0-ship-fire`, `2-raptor-plume` and `3-static-fire`, 4x for `1-flames` and `4-triple-plume`), then lanczos down to 3840 wide (3840 tall for `4-triple-plume`).
 
 Photos © SpaceX.

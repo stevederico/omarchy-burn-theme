@@ -2,6 +2,12 @@
 
 - Extra Burn stills
 
+0.11.0
+
+  Widen ship fire to 4K
+  Upscale static fire to 4K
+  Update backgrounds grid
+
 0.10.0
 
   Upscale backgrounds to 4K
